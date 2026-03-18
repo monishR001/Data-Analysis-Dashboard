@@ -40,3 +40,15 @@ Create a Sales Performance Dashboard in Power BI to track key business metrics a
 
 5.✅ Dynamic Filters – Interactive slicers for Date, Region, Product Category, and more.
 
+##  **📌 How to Use**
+
+1.Load the Dataset into Power BI.
+
+2.Transform & Clean Data using Power Query.
+
+3.Create Data Model with proper relationships.
+
+4.Build Visuals for KPIs, trends, and insights.
+
+5.Publish & Share the dashboard.
+
