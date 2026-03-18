@@ -52,3 +52,8 @@ Create a Sales Performance Dashboard in Power BI to track key business metrics a
 
 5.Publish & Share the dashboard.
 
+##  **📌Dashboard**
+
+<img width="1299" height="735" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/14c04f0d-537e-45fb-ae2d-96498021731e" />
+
+
