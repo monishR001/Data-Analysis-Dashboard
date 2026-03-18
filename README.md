@@ -27,3 +27,16 @@ Create a Sales Performance Dashboard in Power BI to track key business metrics a
 -  Business Executives – To track overall revenue and profit trends.
 
 -  Marketing Teams – To analyze customer behavior and top-selling products.
+
+##  **📌 Dashboard Features**
+
+1.✅ Sales Overview – A high-level summary of total sales, profit, and key metrics.
+
+2.✅ Monthly & Yearly Sales Trends – Line and bar charts to analyze growth over time.
+
+3.✅ Top Customers & Products – Identifying the most valuable customers and best-selling products.
+
+4.✅ Profit & Revenue Analysis – Insights into profitability across different categories.
+
+5.✅ Dynamic Filters – Interactive slicers for Date, Region, Product Category, and more.
+
