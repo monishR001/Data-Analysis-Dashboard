@@ -6,12 +6,14 @@ Create a Sales Performance Dashboard in Power BI to track key business metrics a
 
 ##  **📌 Data Source**
 
-The dashboard is built using multiple data sources:
+**The dashboard is built using multiple data sources:**
 
-Sales Transactions (Excel, SQL, or CSV)
-Product Details (Product categories, prices, stock availability)
-Customer Information (Customer demographics, purchase history)
+-  Sales Transactions (Excel, SQL, or CSV)
 
-📌 DataSet used
+-  Product Details (Product categories, prices, stock availability)
+
+-  Customer Information (Customer demographics, purchase history)
+
+##  **📌 DataSet used**
 
 -  <a href ="https://github.com/monishR001/Data-Analysis-Dashboard/blob/main/Sales_Data_10K.xlsx">Dataset</a>
