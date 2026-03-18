@@ -17,3 +17,13 @@ Create a Sales Performance Dashboard in Power BI to track key business metrics a
 ##  **📌 DataSet used**
 
 -  <a href ="https://github.com/monishR001/Data-Analysis-Dashboard/blob/main/Sales_Data_10K.xlsx">Dataset</a>
+
+##  **📌 Target Users**
+
+**The dashboard is designed for:**
+
+-  Sales Managers – To monitor sales performance and team efficiency.
+
+-  Business Executives – To track overall revenue and profit trends.
+
+-  Marketing Teams – To analyze customer behavior and top-selling products.
